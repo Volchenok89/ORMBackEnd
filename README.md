@@ -5,8 +5,8 @@
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-Built a an app with a MS-style blog site
-where I can publish articles, blog posts, and my thoughts and opinions. Also other people can read everything, but only publish or comment when they are logged in.
+
+
 
 ## Table of Contents
 - [Installation](#installation/usage)
@@ -19,9 +19,6 @@ where I can publish articles, blog posts, and my thoughts and opinions. Also oth
 GitHub link:
 
 https://github.com/Volchenok89/ORMBackEnd
-
-
-Heroku Deployment: 
 
 
 
