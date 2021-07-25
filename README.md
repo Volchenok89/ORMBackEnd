@@ -1,8 +1,8 @@
 # ORMBackEnd
 
-##Challenge13
+## Challenge13
 
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description
 
@@ -47,7 +47,7 @@ Volchenok89
  
 ## License
 
-MIT
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Copyright (C) 2021, Volchenok89
 
