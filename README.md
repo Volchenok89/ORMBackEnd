@@ -23,8 +23,7 @@ This video was uploaded on youtube.
 
 ## Table of Contents
 - [Contribution](#contribution)
-- 
-By Volchenok89
+ 
 
 - [License](#license)
 
