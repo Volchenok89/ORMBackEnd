@@ -39,6 +39,15 @@ https://github.com/Volchenok89/ORMBackEnd
 Video link:
 https://www.youtube.com/watch?v=8thuhhUN69w
 
+![CREATEPRODUCT](https://user-images.githubusercontent.com/77917594/126885620-fae00f21-d95f-4d2b-b522-ef0275d98c90.png)
+![GETTAGS](https://user-images.githubusercontent.com/77917594/126885623-4f04d197-e15e-4ba5-9c27-ad840006c0a2.png)
+![updatecategory](https://user-images.githubusercontent.com/77917594/126885624-ac2fcd46-e586-42be-850b-d1828129a38e.png)
+
+
+
+
+
+
 
 ## Contribution
 Volchenok89
