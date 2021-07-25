@@ -1,6 +1,6 @@
 # ORMBackEnd
 
-## Challenge13
+## Challenge 13
 
 
 
@@ -22,12 +22,11 @@ This video was uploaded on youtube.
 
 
 ## Table of Contents
+
 - [Deployment](#deployment)
--
 
 - [Contribution](#contribution)
  
-
 - [License](#license)
 
 
